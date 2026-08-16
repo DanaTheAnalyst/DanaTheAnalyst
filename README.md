@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dana 👋
 
-<!--
-**DanaTheAnalyst/DanaTheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I combine data analytics with extensive business operations experience across hospitality, aviation, healthcare, and retail.
 
-Here are some ideas to get you started:
+My projects focus on turning operational and financial data into practical business insights using Power BI, SQL, Excel, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🏨 Hospitality Revenue & Performance Analytics
+Power BI dashboard focused on revenue, occupancy, ADR, RevPAR, pricing, booking lead time, distribution channels, cancellations, and operational performance.
+
+### 📊 Retail Business Performance & Operations Analytics
+End-to-end analytics project covering sales, profitability, customers, products, regional performance, and business trends.
+
+## Tools
+Power BI • SQL • Excel • Python • DAX • Data Visualization • Business Analysis
